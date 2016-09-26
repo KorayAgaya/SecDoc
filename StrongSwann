@@ -38,7 +38,7 @@ Kurulum Kılavuzu
 >
 > **Adım 1;**
 >
-> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No1.PNG)
+> ![](https://github.com/SecureAdmin/SecDoc/upload/master/images/1.PNG)
 >
 > Resim 1
 >
@@ -49,7 +49,7 @@ Kurulum Kılavuzu
 >
 > **Adım 2:**
 >
-> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No2.PNG)
+> ![](https://github.com/SecureAdmin/SecDoc/upload/master/images/2.PNG)
 >
 > Resim 2
 >
@@ -66,7 +66,7 @@ Kurulum Kılavuzu
 > neler gerçekleştirmek istediğinize bağlı olarak ihtiyaç duyacağız
 > fonksiyonları bu aşamadaki yapılandırmada aktif hale getirebilirsiniz.
 >
-> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No3.PNG)
+> ![](https://github.com/SecureAdmin/SecDoc/upload/master/images/3.PNG)
 >
 > Resim 3
 >
@@ -138,7 +138,7 @@ Kullanım Kılavuzu
 > **ipsec listcacerts:** usr/local/etc/ipsec.d/cacerts konumundaki X509
 > sertifikalarını görüntüler.
 >
-> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No4.PNG)
+> ![](https://github.com/SecureAdmin/SecDoc/upload/master/images/4.PNG)
 >
 > Resim 4
 >
@@ -297,7 +297,7 @@ Kullanım Kılavuzu
 >
 > IP versiyonu: IPV4
 >
-> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No5.PNG)
+> ![](https://github.com/SecureAdmin/SecDoc/upload/master/images/5.PNG)
 >
 > Şekil 1
 >
@@ -309,13 +309,13 @@ Kullanım Kılavuzu
 
 Kali Linux bilgileri;
 
-> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No6.PNG)
+> ![](https://github.com/SecureAdmin/SecDoc/upload/master/images/6.PNG)
 >
 > Resim 5
 
 Kali Linux 2 bilgileri;
 
-> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No7.PNG)
+> ![](https://github.com/SecureAdmin/SecDoc/upload/master/images/7.PNG)
 
 > Resim 6
 
